@@ -1,3 +1,3 @@
 # Lab04
-This is a College Assignment!
+This is a Assignment!
 #E22CSEU0232
